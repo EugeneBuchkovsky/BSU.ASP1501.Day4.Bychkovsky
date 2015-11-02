@@ -42,6 +42,9 @@
     <Compile Include="CriterionMaxElement.cs" />
     <Compile Include="CriterionSum.cs" />
     <Compile Include="ICriterionSort.cs" />
+    <Compile Include="ISortArray.cs" />
+    <Compile Include="MaxElementNew.cs" />
+    <Compile Include="NewSortLogic.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SortJaggedArray.cs" />
     <Compile Include="SortLogic.cs" />
